@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;600;700;800;900&display=swap');
+
+* {
+  font-family: 'Inter Tight', sans-serif !important;
+}
+
+body {
+  background: #0d0d0f !important;
+}
+body {
+  background: var(--tg-theme-secondary-bg-color, white);
+  padding: 0;
+  margin: 0;
+}
